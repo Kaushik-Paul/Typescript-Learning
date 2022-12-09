@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "@types/node": "^18.11.12",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "main": "src/node_express/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaushik-Paul/Typescript-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaushik-Paul/Typescript-Learning/issues"
+  },
+  "homepage": "https://github.com/Kaushik-Paul/Typescript-Learning#readme",
+  "description": ""
+}
